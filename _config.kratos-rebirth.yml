@@ -50,7 +50,7 @@ footer:
       link: /atom.xml
   components:
     uptime:
-      since: "2018/05/06 17:03:12"
+      since: "2025/11/09 16:36:32"
       text: "本站已在风雨中飘摇"
     author:
       homepage: "https://github.com/Candinya/Kratos-Rebirth/graphs/contributors"
@@ -84,16 +84,17 @@ share:
       link: "https://nya.one/share?text=%3E%20$TITLE%0A%3E%0A%3E%20$SUMMARY%0A----%20$SITE%0A%0A$URL"
 
 # 打赏组件设置
-donate:
-  enable: true
-  title: "赞助喵"
-  message: 非常感谢您的喜欢！ <i class="fa fa-heart" style="color:#d43f57"></i>
-  qrcode_placeholder: "https://dev.krt.moe/demo-assets/donate.webp"
-  platforms:
-    - name: "模拟支付"
-      icon: "credit-card"
-      color: "skyblue"
-      qrcode: "example_payment"
+# donate:
+#   enable: true
+#   title: "赞助喵"
+#   message: 非常感谢您的喜欢！ <i class="fa fa-heart" style="color:#d43f57"></i>
+#   qrcode_placeholder: "https://dev.krt.moe/demo-assets/donate.webp"
+#   platforms:
+#     - name: "模拟支付"
+#       icon: "credit-card"
+#       color: "skyblue"
+#       qrcode: "example_payment"
+
 
 # 版权说明
 copyright_notice:
